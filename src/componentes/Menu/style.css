@@ -1,0 +1,15 @@
+.menu {
+    background-color: #000;
+}
+.menu ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    font-family: sans-serif;
+    font-size: 13px;
+    padding: 1em;
+    }
+    h1{
+        text-align: center;
+        
+    }

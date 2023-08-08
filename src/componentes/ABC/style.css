@@ -1,0 +1,27 @@
+.menuabc ul {
+    display: flex;
+    list-style: none;
+    gap: 25px;
+    font-family: sans-serif;
+    margin: 5px;
+    font-size: 23px;
+    padding: 10px;
+    justify-content: space-around;
+}
+.body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 15px;
+}
+h2{
+    padding: 10px;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(238, 238, 214);
+}
+.menuabc ul a{
+    color: #e3f3c5;
+}
+.menuabc ul a:hover{
+    color: #b9e650;
+}
