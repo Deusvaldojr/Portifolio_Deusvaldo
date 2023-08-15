@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 export const ABC = () => {
     return (
         <div className='body' style={{ backgroundImage: `url(${background})`}}>
-            <h1>Site em criação</h1>
+            <h1>Site em criação constante</h1>
             <nav className='menuabc'>
                 <ul>
                     <li><Link style={{textDecoration: 'none',}} to='https://deusvaldojr.wordpress.com/'>Inicial</Link></li>

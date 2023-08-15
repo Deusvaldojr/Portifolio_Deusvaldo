@@ -1,7 +1,10 @@
 import './style.css';
+import { AiOutlineFile } from "react-icons/ai";
+import React from 'react';
+
 
 export const BF = () => {
     return (
-        <div>BF</div>
+        <div className='logo'> Bula Fácil <AiOutlineFile/></div>
     );
 };
