@@ -16,7 +16,7 @@ export const ABC = () => {
                     <li><Link style={{textDecoration: 'none',}} to='#'>Contato</Link></li>
                 </ul>
             </nav>
-            <div> 
+            <div className='text'> 
                 <h2>Desperte a liberdade nas estradas e embarque na jornada da sua<br/> independência ao volante!</h2>
                 <p>Chapter OneThe studio was filled with the rich odour of roses, and when the light summer wind stirred amidst the trees of the garden, there came through the open door the heavy scent of the lilac, or the more delicate perfume of the pink-flowering thorn. From the corner of the divan of Persian saddle-bags on which…
                 27 de junho de 2023</p>
